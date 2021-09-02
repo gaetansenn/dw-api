@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/gaetansenn/dw-api/compare/v1.1.0...v2.0.0) (2021-09-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* clean up ctx injected to mapping model method
+
+### Features
+
+* clean up ctx injected to mapping model method ([98f83b6](https://github.com/gaetansenn/dw-api/commit/98f83b6139eb670db47104630c7842c7c9552e2c))
+
 ## 1.1.0 (2021-09-02)
 
 
