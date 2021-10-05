@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/gaetansenn/dw-api/compare/v2.0.0...v2.0.1) (2021-10-05)
+
+
+### Bug Fixes
+
+* avoid Content-Length for request withtout body (GET) ([bad6fd8](https://github.com/gaetansenn/dw-api/commit/bad6fd850279a8e278eaadd0b85b461401dc8762))
+
 ## [2.0.0](https://github.com/gaetansenn/dw-api/compare/v1.1.0...v2.0.0) (2021-09-02)
 
 
