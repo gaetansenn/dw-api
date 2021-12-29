@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/gaetansenn/dw-api/compare/v2.0.1...v2.1.0) (2021-12-29)
+
+
+### Features
+
+* handle default value with function ([591cf14](https://github.com/gaetansenn/dw-api/commit/591cf146d4edd2ba1a71d2f4ea12257c47374474))
+
 ### [2.0.1](https://github.com/gaetansenn/dw-api/compare/v2.0.0...v2.0.1) (2021-10-05)
 
 

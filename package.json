@@ -1,6 +1,6 @@
 {
   "name": "@dewib/dw-api",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Wrap all your request into one place and map your response for your needs",
   "main": "lib/index.js",
   "scripts": {
