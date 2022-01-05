@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/gaetansenn/dw-api/compare/v2.2.0...v2.3.0) (2022-01-05)
+
+
+### Features
+
+* handle fields as function ([0e4de05](https://github.com/gaetansenn/dw-api/commit/0e4de05cc59d472225dbc6a58afdc091ce448d0e))
+
 ## [2.2.0](https://github.com/gaetansenn/dw-api/compare/v2.1.0...v2.2.0) (2022-01-03)
 
 
