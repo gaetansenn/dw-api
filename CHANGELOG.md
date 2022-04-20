@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.1](https://github.com/gaetansenn/dw-api/compare/v2.6.0...v2.6.1) (2022-04-20)
+
+
+### Bug Fixes
+
+* fix mapping bind arguments ([4b17e94](https://github.com/gaetansenn/dw-api/commit/4b17e940065611a0655089fd39e0a169eb51a0e6))
+
 ## [2.6.0](https://github.com/gaetansenn/dw-api/compare/v2.5.0...v2.6.0) (2022-04-20)
 
 
