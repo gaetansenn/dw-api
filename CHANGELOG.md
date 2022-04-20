@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/gaetansenn/dw-api/compare/v2.5.0...v2.6.0) (2022-04-20)
+
+
+### Features
+
+* add format as optional ([13bf88d](https://github.com/gaetansenn/dw-api/commit/13bf88d0eed9a7fa72a88efcdc8a59b4b1eae2ad))
+
 ## [2.5.0](https://github.com/gaetansenn/dw-api/compare/v2.4.0...v2.5.0) (2022-03-23)
 
 
