@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://github.com/gaetansenn/dw-api/compare/v2.6.2...v2.7.0) (2022-05-18)
+
+
+### Features
+
+* add put method ([c8808dd](https://github.com/gaetansenn/dw-api/commit/c8808dd793c2c14c3297be23f3b238c5544e3cbd))
+
 ### [2.6.2](https://github.com/gaetansenn/dw-api/compare/v2.6.1...v2.6.2) (2022-04-20)
 
 ### [2.6.1](https://github.com/gaetansenn/dw-api/compare/v2.6.0...v2.6.1) (2022-04-20)
